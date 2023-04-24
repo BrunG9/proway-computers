@@ -3,7 +3,7 @@ export interface IProduto {
     descricao: string;
     preco: number;
     descricaoPreco: string;
-    quantidadeEstoque: number;
+    quantidadeEstoque: number; 
     imagem: string;
 }
 
