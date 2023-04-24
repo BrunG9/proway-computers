@@ -40,3 +40,6 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+
+ng build --base-href"https://BrunG9.github.io/proway-computers/"
